@@ -1,0 +1,16 @@
+
+Algunas de las imágenes utilizadas en este trabajo fueron extraídas de las siguientes páginas. Si es el autor intelectual de la imagen y desea que esta sea borrada por favor envíeme un mensaje directo. Github usuario.: 2Gapps
+
+Referencias:
+* [AUC](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
+* [Clf evaluation metrics](https://towardsdatascience.com/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226)
+* [Accuracy ](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
+* [Performance Metrics ML](https://medium.com/machine-learning-through-visuals/performance-metrics-machine-learning-through-visuals-84ebd7cdcc20)
+* [metrics.f1_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
+* [balanced_accuracy_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html)
+* [Diff bw accuracy-score-and-accuracy-score](https://stackoverflow.com/questions/55548675/difference-between-balanced-accuracy-score-and-accuracy-score)
+* [Evaluación de errores](https://aprendeia.com/evaluando-el-error-en-los-modelos-de-clasificacion-machine-learning/)
+* [scoring-parameter](https://scikit-learn.org/stable/modules/model_evaluation.html#scoring-parameter)
+* [Curvas ROC](https://es.wikipedia.org/wiki/Curva_ROC)
+* [Curvas ROC 2](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+* [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
